@@ -76,6 +76,7 @@ Jika emulator crash:
 
 ---
 #Butki Screenshoot
-1. ![gambar2](https://github.com/user-attachments/assets/6e6e63c5-80bb-4890-b88e-76727103ae9c)
-2. ![gambar2](https://github.com/user-attachments/assets/767ef94b-5ca2-46b1-876d-5504e4ea4135)
+
+![gambar2](https://github.com/user-attachments/assets/6e6e63c5-80bb-4890-b88e-76727103ae9c)
+![gambar2](https://github.com/user-attachments/assets/767ef94b-5ca2-46b1-876d-5504e4ea4135)
 
