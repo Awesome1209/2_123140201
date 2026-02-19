@@ -76,5 +76,6 @@ Jika emulator crash:
 
 ---
 #Butki Screenshoot
-1. <img width="904" height="679" alt="image" src="https://github.com/user-attachments/assets/b3696324-3ead-4af2-9bf8-cbfd91056b3e" />
-2. <img width="254" height="570" alt="image" src="https://github.com/user-attachments/assets/1b0229c1-60b3-4ec6-8081-0b567c870645" />
+1. ![gambar2](https://github.com/user-attachments/assets/6e6e63c5-80bb-4890-b88e-76727103ae9c)
+2. ![gambar2](https://github.com/user-attachments/assets/767ef94b-5ca2-46b1-876d-5504e4ea4135)
+
