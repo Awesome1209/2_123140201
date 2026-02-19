@@ -10,6 +10,18 @@
 
 Aplikasi **News Feed Simulator** berbasis **Kotlin Coroutines + Flow** (Kotlin Multiplatform) untuk mensimulasikan aliran berita dan menampilkan daftar berita secara real-time.
 
+---
+<img width="534" height="1049" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/a741e26c-65a5-4ff5-8057-8206b7a0b193" />
+
+
+<img width="526" height="1031" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/de524d59-5819-4963-acf4-4b0b0f0f4570" />
+
+<img width="2560" height="1440" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/3ceed081-0256-4326-8747-d7861f51529b" />
+
+<img width="2560" height="1440" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/f22ee596-b675-4f39-a985-cf99142d451f" />
+
+
+---
 ## Deskripsi Singkat Tugas
 Aplikasi mensimulasikan news feed dengan ketentuan:
 - **Flow** memancarkan berita baru setiap **2 detik**
@@ -73,11 +85,3 @@ Jika emulator crash:
 - Tap salah satu berita:
   - **Read count** bertambah
   - “Last detail” akan terisi hasil fetch detail (simulasi async)
-
----
-#Butki Screenshoot
-
-![gambar2](https://github.com/user-attachments/assets/6e6e63c5-80bb-4890-b88e-76727103ae9c)
-
-![WhatsApp Image 2026-02-19 at 5 15 53 PM](https://github.com/user-attachments/assets/b36a769a-265e-4b87-82b8-1492ef312337)
-
