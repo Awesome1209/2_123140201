@@ -78,5 +78,6 @@ Jika emulator crash:
 #Butki Screenshoot
 
 ![gambar2](https://github.com/user-attachments/assets/6e6e63c5-80bb-4890-b88e-76727103ae9c)
-![gambar2](https://github.com/user-attachments/assets/767ef94b-5ca2-46b1-876d-5504e4ea4135)
+
+![WhatsApp Image 2026-02-19 at 5 15 53 PM](https://github.com/user-attachments/assets/b36a769a-265e-4b87-82b8-1492ef312337)
 
