@@ -9,14 +9,18 @@
 Aplikasi **News Feed Simulator** berbasis **Kotlin Coroutines + Flow** (Kotlin Multiplatform) untuk mensimulasikan aliran berita dan menampilkan daftar berita secara real-time.
 
 ---
+# Tampilan Mobile
+
 <img width="534" height="1049" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/a741e26c-65a5-4ff5-8057-8206b7a0b193" />
 
 <img width="526" height="1031" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/de524d59-5819-4963-acf4-4b0b0f0f4570" />
 
+---
+# Tampilan Dekstop
+
 <img width="2560" height="1330" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/11133eee-72ff-4340-bafc-68d202d31ff1" />
 
 <img width="2560" height="1302" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/a899280f-692b-4841-bc84-28fcf9e6133b" />
-
 
 ---
 ## Deskripsi Singkat Tugas
