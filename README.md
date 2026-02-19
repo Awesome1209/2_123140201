@@ -11,12 +11,11 @@ Aplikasi **News Feed Simulator** berbasis **Kotlin Coroutines + Flow** (Kotlin M
 ---
 <img width="534" height="1049" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/a741e26c-65a5-4ff5-8057-8206b7a0b193" />
 
-
 <img width="526" height="1031" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/de524d59-5819-4963-acf4-4b0b0f0f4570" />
 
-<img width="2560" height="1440" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/3ceed081-0256-4326-8747-d7861f51529b" />
+<img width="2560" height="1330" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/11133eee-72ff-4340-bafc-68d202d31ff1" />
 
-<img width="2560" height="1440" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/f22ee596-b675-4f39-a985-cf99142d451f" />
+<img width="2560" height="1302" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/a899280f-692b-4841-bc84-28fcf9e6133b" />
 
 
 ---
