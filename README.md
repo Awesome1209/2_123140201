@@ -4,8 +4,6 @@
 ## 👤 Identitas Mahasiswa
 * **Nama**: Awi Septian Prasetyo
 * **NIM**: 123140201
-* **Program Studi**: Teknik Informatika
-* **Kampus**: Institut Teknologi Sumatera (ITERA)
 ---
 
 Aplikasi **News Feed Simulator** berbasis **Kotlin Coroutines + Flow** (Kotlin Multiplatform) untuk mensimulasikan aliran berita dan menampilkan daftar berita secara real-time.
